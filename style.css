@@ -1,0 +1,32 @@
+.title {
+  font-size: 30px;
+  font-weight: normal;
+  border-bottom: 2px solid #c4c4c4;
+}
+.bold {
+  font-weight: bold;
+}
+
+.bg-darkgray {
+  background-color: #00000050;
+}
+
+.txt-blue {
+  color: #0000ff;
+}
+
+.txt-red {
+  color: #ff0000;
+}
+
+.txt-yellow {
+  color: #ffff00;
+}
+
+.bg-red {
+  background-color: #ff0000;
+}
+
+.txt-size-25 {
+  font-size: 25px;
+}
